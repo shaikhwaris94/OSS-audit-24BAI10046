@@ -2,8 +2,8 @@
 
 # Open Source Audit: Git
 
-Student Name: Rachit Tiwari
-Registration Number : 24BAI10309
+Student Name: Shaikh Mohammad Warsi
+Registration Number : 24BAI10046
 
 Course: Open Source Software (OSS NGMC)
 
@@ -58,8 +58,8 @@ An interactive script that engages the user with questions about open-source fre
 ### Installation & Execution
 
 ```bash
-git clone https://github.com/Rachit-Tiwari-7/OSS-audit-24BAI10309
-cd OSS-audit-24BAI10309
+git clone https://github.com/shaikhwaris94/OSS-audit-24BAI10046
+cd OSS-audit-24BAI10046
 
 chmod +x script*.sh
 
@@ -78,4 +78,4 @@ This project is submitted as part of the VITyarthi Open Source Software Capstone
 
 ## GitHub Repository
 
-https://github.com/Rachit-Tiwari-7/OSS-audit-24BAI10309
+https://github.com/shaikhwaris94/OSS-audit-24BAI10046
